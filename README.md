@@ -2,9 +2,9 @@
 A sentiment analysis system that evaluates text sentiment using state-of-the-art Transformer models such as BERT, RoBERTa, and DistilBERT, with performance comparison based on accuracy, precision, recall, and F1-score.
 
 # Features
-## **1_Sentiment classification for user-provided text.**
-## **2_Support for three Transformer models: BERT, RoBERTa, and DistilBERT.**
-3_Real-time sentiment prediction with confidence scores.
+*1_Sentiment classification for user-provided text.
+*2_Support for three Transformer models: BERT, RoBERTa, and DistilBERT.**
+*3_Real-time sentiment prediction with confidence scores.
 4_Interactive web application built with Streamlit.
 5_Side-by-side comparison of model predictions and performance.
 6_Clean and user-friendly interface for testing and evaluation.
